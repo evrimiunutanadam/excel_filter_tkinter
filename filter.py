@@ -7,7 +7,8 @@ import tkinter as tk
 
 def clicked():
 
-
+    print("deneme")
+    
     try:
         row_check = ""
         filter_length = int(filter_length_txt.get())
